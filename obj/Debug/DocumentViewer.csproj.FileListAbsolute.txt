@@ -5,3 +5,10 @@ D:\from office working\for aspose\TestAspose\bin\Aspose.Words.xml
 D:\from office working\for aspose\TestAspose\obj\Debug\DocumentViewer.csprojResolveAssemblyReference.cache
 D:\from office working\for aspose\TestAspose\obj\Debug\TestAspose.dll
 D:\from office working\for aspose\TestAspose\obj\Debug\TestAspose.pdb
+D:\from office working\for aspose\Document Viewer\Document-Viewer\bin\TestAspose.dll
+D:\from office working\for aspose\Document Viewer\Document-Viewer\bin\TestAspose.pdb
+D:\from office working\for aspose\Document Viewer\Document-Viewer\bin\Aspose.Words.dll
+D:\from office working\for aspose\Document Viewer\Document-Viewer\bin\Aspose.Words.xml
+D:\from office working\for aspose\Document Viewer\Document-Viewer\obj\Debug\DocumentViewer.csprojResolveAssemblyReference.cache
+D:\from office working\for aspose\Document Viewer\Document-Viewer\obj\Debug\TestAspose.dll
+D:\from office working\for aspose\Document Viewer\Document-Viewer\obj\Debug\TestAspose.pdb

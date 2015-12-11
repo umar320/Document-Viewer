@@ -36,7 +36,7 @@
                 <div>
                     <asp:FileUpload ID="FileUpload1" runat="server" />
                     <asp:Button ID="btnUpload" runat="server" Text="Render" />
-                    &nbsp;Select PDF
+                    &nbsp;Select MS Word file and press Render button
                 </div>
 
                 <div id="resultDiv"></div>
