@@ -1,0 +1,7 @@
+D:\from office working\for aspose\TestAspose\bin\TestAspose.dll
+D:\from office working\for aspose\TestAspose\bin\TestAspose.pdb
+D:\from office working\for aspose\TestAspose\bin\Aspose.Words.dll
+D:\from office working\for aspose\TestAspose\bin\Aspose.Words.xml
+D:\from office working\for aspose\TestAspose\obj\Debug\DocumentViewer.csprojResolveAssemblyReference.cache
+D:\from office working\for aspose\TestAspose\obj\Debug\TestAspose.dll
+D:\from office working\for aspose\TestAspose\obj\Debug\TestAspose.pdb
